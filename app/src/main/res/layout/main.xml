@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/camera_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/bubble1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:onClick="subjectDialog"
+        android:visibility="gone"
+        android:src="@drawable/ic_subject_24dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/bubble2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|start"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:onClick="archDialog"
+        android:visibility="gone"
+        android:src="@drawable/ic_account_balance_24dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/bubble3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:onClick="infoDialog"
+        android:visibility="gone"
+        android:src="@drawable/ic_info_24dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/settings_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:onClick="toSettings"
+        android:src="@drawable/ic_settings_24dp" />
+</FrameLayout>

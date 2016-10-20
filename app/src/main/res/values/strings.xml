@@ -71,6 +71,24 @@
     <string name="pref_title_most_liked_venues">Most Liked Venues</string>
     <string name="pref_title_favourites">Your Favourite Venues</string>
 
+    <string name="pref_title_duomo">Duomo di Milano</string>
+
+    <string name="text_subject_duomo"><b>Milan Cathedral</b> (Duomo di Milano) is the cathedral church of <b>Milan, Italy</b>. Dedicated to St Mary of the Nativity (Santa Maria Nascente), it is the seat of the Archbishop of Milan, currently Cardinal Angelo Scola. The <b>Gothic</b> cathedral took nearly six centuries to complete. It is the largest church in Italy (the larger St. Peter\'s Basilica is in the State of Vatican City) and the fifth largest in the world.</string>
+    <string name="text_arch_duomo">
+        The plan consists of a <b>nave with four side-aisles</b>, crossed by a transept and then followed by choir and apse. The height of the nave is about <b>45 meters</b>, the highest Gothic vaults of a complete church (less than the 48 meters of Beauvais Cathedral, which was never completed).
+        The roof is open to tourists (for a fee), which allows many a close-up view of some spectacular sculpture that would otherwise be unappreciated. The roof of the cathedral is renowned for the forest of openwork pinnacles and spires, set upon delicate flying buttresses.
+        The cathedral\'s five broad naves, divided by 40 pillars, are reflected in the hierarchic openings of the façade. Even the transepts have aisles. The nave columns are <b>24.5 metres (80 ft) high</b>, and the apsidal windows are 20.7 x 8.5 metres (68 x 28 feet). The huge building is of brick construction, faced with marble from the quarries which <b>Gian Galeazzo Visconti</b> donated in perpetuity to the cathedral chapter. Its maintenance and repairs are very complicated.
+        In 2015, Milan\'s cathedral developed a new lighting system based on LED lights.
+    </string>
+    <string name="text_info_duomo">
+        <b>Visit hours</b>: 8AM - 7PM\n
+        <b>Cathedral Ticket</b>: 2€\n
+        <b>Terrace Ticket</b>: 9€\n
+        <b>Complete Pass</b>: 15€\n
+        \n
+        <i>Reduced fees may be applicable during festivities.</i>
+    </string>
+
     <string name="pref_title_ringtone">Ringtone</string>
     <string name="pref_ringtone_silent">Silent</string>
 
