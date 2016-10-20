@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- A 'parent' preference, which enables/disables child preferences (below)
+         when checked/unchecked. -->
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="buildings_and_monuments"
+        android:title="@string/pref_title_buildings_and_monuments" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="museums"
+        android:title="@string/pref_title_museums" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="most_liked_venues"
+        android:title="@string/pref_title_most_liked_venues" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="notifications_new_message"
+        android:title="@string/pref_title_favourites" />
+
+</PreferenceScreen>

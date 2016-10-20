@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="buildings_and_monuments"
+        android:title="@string/pref_title_buildings_and_monuments" />
+
+</PreferenceScreen>
